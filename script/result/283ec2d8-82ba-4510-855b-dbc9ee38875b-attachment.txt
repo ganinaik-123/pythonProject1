@@ -1,0 +1,11 @@
+reading the config properties
+using local system
+open the chrome browser
+enter the url: http://www.google.com
+set the ITO: 10
+set the ETO: 8
+maximize the browser
+Google
+Xl data Akshara
+Xl data in test Akshara
+close the browser
